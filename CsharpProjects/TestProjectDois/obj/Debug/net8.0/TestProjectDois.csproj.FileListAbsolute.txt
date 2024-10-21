@@ -1,0 +1,15 @@
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectDois\bin\Debug\net8.0\TestProjectDois.exe
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectDois\bin\Debug\net8.0\TestProjectDois.deps.json
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectDois\bin\Debug\net8.0\TestProjectDois.runtimeconfig.json
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectDois\bin\Debug\net8.0\TestProjectDois.dll
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectDois\bin\Debug\net8.0\TestProjectDois.pdb
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectDois\obj\Debug\net8.0\TestProjectDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectDois\obj\Debug\net8.0\TestProjectDois.AssemblyInfoInputs.cache
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectDois\obj\Debug\net8.0\TestProjectDois.AssemblyInfo.cs
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectDois\obj\Debug\net8.0\TestProjectDois.csproj.CoreCompileInputs.cache
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectDois\obj\Debug\net8.0\TestProjectDois.sourcelink.json
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectDois\obj\Debug\net8.0\TestProjectDois.dll
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectDois\obj\Debug\net8.0\refint\TestProjectDois.dll
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectDois\obj\Debug\net8.0\TestProjectDois.pdb
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectDois\obj\Debug\net8.0\TestProjectDois.genruntimeconfig.cache
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectDois\obj\Debug\net8.0\ref\TestProjectDois.dll
