@@ -1,2 +1,2 @@
 # certificacao-csharp
-Conteúdo de estudo certificação C# 
+Conteúdo de estudo para a certificação C# 
