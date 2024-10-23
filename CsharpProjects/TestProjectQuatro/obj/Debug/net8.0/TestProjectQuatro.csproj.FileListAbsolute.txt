@@ -1,0 +1,15 @@
+C:\Projetos\DotNet-Projects\certificacao-csharp\csharpprojects\testprojectQuatro\bin\Debug\net8.0\TestProjectQuatro.exe
+C:\Projetos\DotNet-Projects\certificacao-csharp\csharpprojects\testprojectQuatro\bin\Debug\net8.0\TestProjectQuatro.deps.json
+C:\Projetos\DotNet-Projects\certificacao-csharp\csharpprojects\testprojectQuatro\bin\Debug\net8.0\TestProjectQuatro.runtimeconfig.json
+C:\Projetos\DotNet-Projects\certificacao-csharp\csharpprojects\testprojectQuatro\bin\Debug\net8.0\TestProjectQuatro.dll
+C:\Projetos\DotNet-Projects\certificacao-csharp\csharpprojects\testprojectQuatro\bin\Debug\net8.0\TestProjectQuatro.pdb
+C:\Projetos\DotNet-Projects\certificacao-csharp\csharpprojects\testprojectQuatro\obj\Debug\net8.0\TestProjectQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DotNet-Projects\certificacao-csharp\csharpprojects\testprojectQuatro\obj\Debug\net8.0\TestProjectQuatro.AssemblyInfoInputs.cache
+C:\Projetos\DotNet-Projects\certificacao-csharp\csharpprojects\testprojectQuatro\obj\Debug\net8.0\TestProjectQuatro.AssemblyInfo.cs
+C:\Projetos\DotNet-Projects\certificacao-csharp\csharpprojects\testprojectQuatro\obj\Debug\net8.0\TestProjectQuatro.csproj.CoreCompileInputs.cache
+C:\Projetos\DotNet-Projects\certificacao-csharp\csharpprojects\testprojectQuatro\obj\Debug\net8.0\TestProjectQuatro.sourcelink.json
+C:\Projetos\DotNet-Projects\certificacao-csharp\csharpprojects\testprojectQuatro\obj\Debug\net8.0\TestProjectQuatro.dll
+C:\Projetos\DotNet-Projects\certificacao-csharp\csharpprojects\testprojectQuatro\obj\Debug\net8.0\refint\TestProjectQuatro.dll
+C:\Projetos\DotNet-Projects\certificacao-csharp\csharpprojects\testprojectQuatro\obj\Debug\net8.0\TestProjectQuatro.pdb
+C:\Projetos\DotNet-Projects\certificacao-csharp\csharpprojects\testprojectQuatro\obj\Debug\net8.0\TestProjectQuatro.genruntimeconfig.cache
+C:\Projetos\DotNet-Projects\certificacao-csharp\csharpprojects\testprojectQuatro\obj\Debug\net8.0\ref\TestProjectQuatro.dll
