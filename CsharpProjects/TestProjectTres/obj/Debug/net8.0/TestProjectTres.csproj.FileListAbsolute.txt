@@ -1,0 +1,15 @@
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectTres\obj\Debug\net8.0\TestProjectTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectTres\obj\Debug\net8.0\TestProjectTres.AssemblyInfoInputs.cache
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectTres\obj\Debug\net8.0\TestProjectTres.AssemblyInfo.cs
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectTres\obj\Debug\net8.0\TestProjectTres.csproj.CoreCompileInputs.cache
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectTres\obj\Debug\net8.0\TestProjectTres.sourcelink.json
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectTres\bin\Debug\net8.0\TestProjectTres.exe
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectTres\bin\Debug\net8.0\TestProjectTres.deps.json
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectTres\bin\Debug\net8.0\TestProjectTres.runtimeconfig.json
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectTres\bin\Debug\net8.0\TestProjectTres.dll
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectTres\bin\Debug\net8.0\TestProjectTres.pdb
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectTres\obj\Debug\net8.0\TestProjectTres.dll
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectTres\obj\Debug\net8.0\refint\TestProjectTres.dll
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectTres\obj\Debug\net8.0\TestProjectTres.pdb
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectTres\obj\Debug\net8.0\TestProjectTres.genruntimeconfig.cache
+C:\Projetos\DotNet-Projects\certificacao-csharp\CsharpProjects\TestProjectTres\obj\Debug\net8.0\ref\TestProjectTres.dll
