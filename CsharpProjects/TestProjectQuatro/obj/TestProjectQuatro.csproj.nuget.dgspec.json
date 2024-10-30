@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\DotNet-Projects\\certificacao-csharp\\csharpprojects\\testprojectQuatro\\TestProjectQuatro.csproj": {}
+    "C:\\Projetos\\DotNet-Projects\\certificacao-csharp\\CsharpProjects\\TestProjectQuatro\\TestProjectQuatro.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\DotNet-Projects\\certificacao-csharp\\csharpprojects\\testprojectQuatro\\TestProjectQuatro.csproj": {
+    "C:\\Projetos\\DotNet-Projects\\certificacao-csharp\\CsharpProjects\\TestProjectQuatro\\TestProjectQuatro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\DotNet-Projects\\certificacao-csharp\\csharpprojects\\testprojectQuatro\\TestProjectQuatro.csproj",
+        "projectUniqueName": "C:\\Projetos\\DotNet-Projects\\certificacao-csharp\\CsharpProjects\\TestProjectQuatro\\TestProjectQuatro.csproj",
         "projectName": "TestProjectQuatro",
-        "projectPath": "C:\\Projetos\\DotNet-Projects\\certificacao-csharp\\csharpprojects\\testprojectQuatro\\TestProjectQuatro.csproj",
+        "projectPath": "C:\\Projetos\\DotNet-Projects\\certificacao-csharp\\CsharpProjects\\TestProjectQuatro\\TestProjectQuatro.csproj",
         "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\DotNet-Projects\\certificacao-csharp\\csharpprojects\\testprojectQuatro\\obj\\",
+        "outputPath": "C:\\Projetos\\DotNet-Projects\\certificacao-csharp\\CsharpProjects\\TestProjectQuatro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
